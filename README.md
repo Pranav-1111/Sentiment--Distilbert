@@ -55,6 +55,12 @@ print(f"Predicted Emotion ID: {predicted_class}")
 
 📉 Loss: gradually decreasing with each epoch
 
+## 🤖 Chatbot UI Demo
+
+This is what the chatbot interface looks like during a real conversation:
+![demo](https://github.com/user-attachments/assets/df9b2102-650b-497a-8fce-927f0ace1da1)
+
+
 ## Details
 Developed by: Bhatt Pranav
 Language(s) (NLP): Python
